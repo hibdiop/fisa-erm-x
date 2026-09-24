@@ -34,3 +34,6 @@ source venv/bin/activate  # or venv\Scripts\activate on Windows
 pip install -r requirements.txt
 python scripts/01_ingest.py
 streamlit run app.py# fisa-erm-x
+```
+
+<img src="https://raw.githubusercontent.com/hibdiop/fisa-erm-x/main/OperationalRiskEcosystem.png" alt="Operational Risk Ecosystem" width="900">
