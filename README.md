@@ -3,7 +3,7 @@
 A working prototype demonstrating unified risk telemetry, business impact quantification, and Agentic AI governance for NYC's payroll and financial systems.
 
 ## 🎯 Purpose
-This project addresses the core challenge in FISA-OPA's Senior Risk Analyst posting: **translating technical risk into business impact**. It normalizes disparate risk sources (cloud, vendor, vulnerability, AI) and weights them against mission-critical NYC services.
+This project normalizes disparate risk sources (cloud, vendor, vulnerability, AI) and weights them against mission-critical NYC services.
 
 ## 🏗️ Architecture
 
