@@ -1,9 +1,9 @@
 # FISA-OPA Enterprise Risk Engine (ERM-X)
 ## Executive Briefing: Unified Risk Telemetry & Agentic AI Governance
 
-**Prepared by:** Bineta Diop
-**Date:** 12/09/1994
-**Audience:** FISA-OPA Director, CISO, Office of Payroll
+- **Prepared by:** Bineta Diop
+- **Date:** 9/2026
+- **Audience:** FISA-OPA Director, CISO, Office of Payroll
 
 ---
 
@@ -20,7 +20,7 @@ I have built a working prototype (ERM-X) that normalizes risk telemetry from fou
 These are correlated against a registry of Tier 1–3 NYC business services, with each risk dynamically weighted by:
 
 $$
-Weighted Risk = Inherent Risk × (1 − Control Effectiveness) × Tier Multiplier
+Weighted_Risk = Inherent_Risk × (1 − Control_Effectiveness) × Tier_Multiplier
 $$
 
 ---
