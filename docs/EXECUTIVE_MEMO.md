@@ -1,8 +1,8 @@
 # FISA-OPA Enterprise Risk Engine (ERM-X)
 ## Executive Briefing: Unified Risk Telemetry & Agentic AI Governance
 
-**Prepared by:** [Your Name]
-**Date:** [Today's Date]
+**Prepared by:** Bineta Diop
+**Date:** 12/09/1994
 **Audience:** FISA-OPA Director, CISO, Office of Payroll
 
 ---
@@ -52,5 +52,5 @@ The SQL schema and Python engine are portable and require no rewrite.
 ---
 
 ### Appendix: Screenshot
-[Insert your Streamlit dashboard screenshot here]
+<img src="OperationalRiskEcosystem.png" alt="Operational Risk Ecosystem" width="900">
 
