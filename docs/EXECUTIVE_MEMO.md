@@ -20,7 +20,7 @@ I have built a working prototype (ERM-X) that normalizes risk telemetry from fou
 These are correlated against a registry of Tier 1–3 NYC business services, with each risk dynamically weighted by:
 
 $$
-Weighted_Risk = Inherent_Risk × (1 − Control_Effectiveness) × Tier_Multiplier
+WeightedRisk = InherentRisk × (1 − ControlEffectiveness) × TierMultiplier
 $$
 
 ---
