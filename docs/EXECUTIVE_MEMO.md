@@ -53,4 +53,4 @@ The SQL schema and Python engine are portable and require no rewrite.
 
 ### Appendix: Screenshot
 
-<img src="https://raw.githubusercontent.com/hibdiop/fisa-erm-x/main/OperationalRiskEcosystem.png" alt="Operational Risk Ecosystem" width="900">
+<img src="https://github.com/hibdiop/fisa-erm-x/blob/main/Risk.png" alt="Operational Risk Ecosystem" width="900">
