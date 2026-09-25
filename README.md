@@ -30,7 +30,7 @@ flowchart TD
 ## Quick Start
 
 ```bash
-git clone https://github.com/[your-username]/fisa-erm-x.git
+git clone https://github.com/hibdiop/fisa-erm-x.git
 cd fisa-erm-x
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
