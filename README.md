@@ -3,11 +3,9 @@
 A working prototype demonstrating unified risk telemetry, business impact quantification, and Agentic AI governance for NYC's payroll and financial systems.
 
 ## 🎯 Purpose
-<<<<<<< HEAD
-This project normalizes disparate risk sources (cloud, vendor, vulnerability, AI) and weights them against mission-critical NYC services.
-=======
+
 This project normalizes disparate risk sources (cloud, vendor, vulnerability, AI) and weights them against mission-critical services.
->>>>>>> cb59e3a (Save local updates)
+
 
 ## 🏗️ Architecture
 
@@ -59,4 +57,4 @@ Tech Stack
 - pandas
 - Streamlit
 - OWASP Top 10 for LLMs / NIST AI RMF (conceptual alignment)
->>>>>>> cb59e3a (Save local updates)
+
