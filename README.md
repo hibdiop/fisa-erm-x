@@ -1,9 +1,13 @@
-# FISA-OPA Enterprise Risk Engine (ERM-X)
+# Enterprise Risk Engine (ERM-X)
 
 A working prototype demonstrating unified risk telemetry, business impact quantification, and Agentic AI governance for NYC's payroll and financial systems.
 
 ## 🎯 Purpose
+<<<<<<< HEAD
 This project normalizes disparate risk sources (cloud, vendor, vulnerability, AI) and weights them against mission-critical NYC services.
+=======
+This project normalizes disparate risk sources (cloud, vendor, vulnerability, AI) and weights them against mission-critical services.
+>>>>>>> cb59e3a (Save local updates)
 
 ## 🏗️ Architecture
 
@@ -25,7 +29,8 @@ flowchart TD
 
 
 
-## 🚀 Quick Start
+## Quick Start
+
 ```bash
 git clone https://github.com/[your-username]/fisa-erm-x.git
 cd fisa-erm-x
@@ -33,7 +38,25 @@ python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
 pip install -r requirements.txt
 python scripts/01_ingest.py
+<<<<<<< HEAD
 streamlit run app.py# fisa-erm-x
 ```
 
 <img src="https://raw.githubusercontent.com/hibdiop/fisa-erm-x/main/OperationalRiskEcosystem.png" alt="Operational Risk Ecosystem" width="900">
+=======
+streamlit run app.py
+
+```
+
+
+Key Finding
+An autonomous AI agent with write-access to the payroll ledger scores 12.00 / 15.0 — the highest enterprise risk in the portfolio. See docs/EXECUTIVE_MEMO.md for the Triple-Gate governance framework.
+
+
+Tech Stack
+- Python 3.10+
+- SQLite3
+- pandas
+- Streamlit
+- OWASP Top 10 for LLMs / NIST AI RMF (conceptual alignment)
+>>>>>>> cb59e3a (Save local updates)

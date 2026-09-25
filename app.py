@@ -8,9 +8,9 @@ import pandas as pd
 from scripts.engine import calculate_executive_metrics
 
 
-st.set_page_config(page_title="FISA-OPA Risk Telemetry", layout="wide")
+st.set_page_config(page_title="Risk Telemetry", layout="wide")
 
-st.title("FISA-OPA Enterprise Risk & AI Governance Telemetry")
+st.title("Enterprise Risk & AI Governance Telemetry")
 st.caption("Unified view: Cybersecurity, Vendor, Cloud, and Agentic AI risk mapped to mission-critical NYC services.")
 
 df = calculate_executive_metrics()
