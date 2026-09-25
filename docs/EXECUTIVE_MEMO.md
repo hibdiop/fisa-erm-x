@@ -1,14 +1,14 @@
-# FISA-OPA Enterprise Risk Engine (ERM-X)
+# Enterprise Risk Engine (ERM-X)
 ## Executive Briefing: Unified Risk Telemetry & Agentic AI Governance
 
 - **Prepared by:** Bineta Diop
 - **Date:** 9/2026
-- **Audience:** FISA-OPA Director, CISO, Office of Payroll
+- **Audience:** Director, CISO, Office of Payroll
 
 ---
 
 ### 1. Problem Statement
-Traditional static spreadsheets obscure the correlation between infrastructure uptime, vendor posture, and payroll finality. FISA-OPA currently lacks a single, quantified view of how technical vulnerabilities translate into operational disruption of mission-critical services like bi-weekly payroll and ACH dispatch.
+Traditional static spreadsheets obscure the correlation between infrastructure uptime, vendor posture, and payroll finality. The main problem that is experienced is that there isn't a single, quantified view of how technical vulnerabilities translate into operational disruption of mission-critical services like bi-weekly payroll and ACH dispatch.
 
 ### 2. Technical Design
 I have built a working prototype (ERM-X) that normalizes risk telemetry from four disparate sources:
